@@ -1,0 +1,44 @@
+.bg{
+	height: 600px;
+	width: 500px;
+	color:#34495e;
+	display: grid;
+    border: 10px solid grey;
+    border-top-right-radius:5%;
+    border-bottom-left-radius:5%;
+}
+.head{
+	font-family:serif;
+	font-style:oblique ;
+	font-size: 25px;
+	text-align: center;
+}
+.ask{
+	color:red;
+}
+.fd{
+	width: 100px;
+}
+input{
+	color: blueviolet ;
+	font-family: monospace;
+	font-size: larger;
+}
+textarea{
+	color: blueviolet;
+	font-family: monospace;
+	width: 300px;
+}
+.btn{
+	width: 300px;
+	background-color:#34495e;
+}
+.btn:hover{
+	background-color: royalblue;
+}
+button:hover{
+	background-color: royalblue;
+}
+button{
+	background-color:#34495e ;
+}
